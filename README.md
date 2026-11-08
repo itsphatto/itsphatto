@@ -1,13 +1,3 @@
-# phatto here
-
-Full stack developer, I build web apps and software. Math on the side.
-
-## Main projects
-
-- **[BreezeCode](https://github.com/itsphatto/BreezeCode)**: Ai-powered code editor with tons of feature
-- **[Calend](https://github.com/itsphatto/Calend)**: shared calendar, web application
-
-## Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
