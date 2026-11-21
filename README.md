@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="githubbanner.jpg" alt="Banner" width="100%">
+</p>
+
+## Tech Stack
+
 ![Rust](https://img.shields.io/badge/Rust-555555?style=flat&logo=rust&logoColor=FF8C00)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
