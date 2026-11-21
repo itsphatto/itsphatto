@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubbanner.jpg" alt="Banner" width="100%">
+  <img src="githubbanner-cropped.jpg" alt="Banner" width="100%">
 </p>
 
 ## Tech Stack
