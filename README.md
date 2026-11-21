@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="githubbanner-cropped.jpg" alt="Banner" width="100%">
-</p>
-
 ## Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-555555?style=flat&logo=rust&logoColor=FF8C00)
